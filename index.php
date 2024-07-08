@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP Test</title>
+        <title>SES is testing</title>
     </head>
     <body>
-        <?php echo '<p>Hello World</p>'; ?>
+        <?php echo '<p>Hello My World</p>'; ?>
+
+<?php phpinfo(); ?>
+
     </body>
 </html>
