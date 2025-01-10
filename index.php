@@ -4,7 +4,7 @@
         <title>SES is testing</title>
     </head>
     <body>
-        <?php echo '<p>Hello My World</p>'; 
+        <?php echo '<p>Hello My Next World</p>'; 
                 phpinfo();
         ?>
 
